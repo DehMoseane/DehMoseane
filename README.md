@@ -3,7 +3,7 @@
  
 🎓- Formada em Análise e desenvolvimento de sistemas | Cursando Ciencia da computação.
 
-😊- Estudante de JS na @cubosAcademy
+Atualmente tenho maior familiariadade na parte do Back com JavaScript. Pretendo me aprofundar em breve na parte do Front-end.
 
 ### Estou estudando...  🧩
 
